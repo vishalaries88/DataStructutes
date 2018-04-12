@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/users/vishalv/personal/github/DataStructutes/linked_list/linked_list.cpp
+linked_list.h
+/home/users/vishalv/personal/github/DataStructutes/linked_list/linked_list.h
+node.h
+/home/users/vishalv/personal/github/DataStructutes/linked_list/node.h
+
+/home/users/vishalv/personal/github/DataStructutes/linked_list/linked_list.h
+iostream
+-
+node.h
+/home/users/vishalv/personal/github/DataStructutes/linked_list/node.h
+
+/home/users/vishalv/personal/github/DataStructutes/linked_list/main.cpp
+iostream
+-
+QApplication
+-
+
+/home/users/vishalv/personal/github/DataStructutes/linked_list/node.h
+
